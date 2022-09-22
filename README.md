@@ -5,6 +5,7 @@
 1. Introducción
 2. Descripción
 3. Contenidos
+4. Conclusión
 
 ## Introducción
 ***
@@ -43,5 +44,9 @@ Este proyecto contiene:
 
 ### Imagen de Contenidos:
 ![Contenidos](https://user-images.githubusercontent.com/111624621/191643657-005f7d96-5265-4362-beab-40ead2026714.png)
+
+## Conclusión
+***
+Este proyecto fue un reto para mi, ya que al no usar bootstrap me vi en la necesidad de ver videos para saber que herramienta usar. Coincidí con que Flexbox, seria la mejor opción y no me arrepiento. Vi muchos tutoriales, decidí un menu que me gusto y en cuestión de diseño ya tengo experiencia. 
 
 
