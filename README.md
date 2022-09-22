@@ -23,9 +23,12 @@ Es una Landing Page sencilla, de un negocio familiar llamado "Papeleria Tem@cill
 En este  proyecto desarrolle un sitio simple, con un prototipo diseñado en Adobe Illustraitor para darme idea de que elementos, distribución y caracteristicas iba a contar.
 ### Prototipo Index de diseño a detalle:
 ![index-detalle](https://user-images.githubusercontent.com/111624621/191643015-d96c6642-9d12-451b-bd6f-60a98065a06a.png)
+
 ### Prototipo Index de diseño:
 ![index-prototipo](https://user-images.githubusercontent.com/111624621/191643019-edfa2b02-76dd-48c4-8846-e81dbe115e8d.png)
+
 ### Prototipo Login de diseño a detalle:
 ![login-detalle](https://user-images.githubusercontent.com/111624621/191643123-0f678508-8607-4906-999d-3ce12059bf1a.png)
+
 ### Prototipo Login de diseño:
 ![login-prototipo](https://user-images.githubusercontent.com/111624621/191643126-de74b1fa-81b3-4698-a33a-b78df7a65eb2.png)
