@@ -52,4 +52,6 @@ Este proyecto fue un reto para mi, ya que al no usar bootstrap me vi en la neces
 ### Adjunto prueba de Commits:
 ![commits](https://user-images.githubusercontent.com/111624621/191644097-cc43564b-0e07-4100-b1dd-cecda97c68b6.png)
 
-
+## Finalización de Proyecto
+***
+Finalización de Proyecto
