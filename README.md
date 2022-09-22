@@ -32,3 +32,16 @@ En este  proyecto desarrolle un sitio simple, con un prototipo diseñado en Adob
 
 ### Prototipo Login de diseño:
 ![login-prototipo](https://user-images.githubusercontent.com/111624621/191643126-de74b1fa-81b3-4698-a33a-b78df7a65eb2.png)
+
+## Contenidos
+***
+Este proyecto contiene:
+1. Una carpeta de imágenes.
+2. Archivos .CSS con los estilos del index y del login.
+3. Archivos .HTML con los diseños HTML de index y login.
+4. Archivo README.
+
+### Imagen de Contenidos:
+![Contenidos](https://user-images.githubusercontent.com/111624621/191643657-005f7d96-5265-4362-beab-40ead2026714.png)
+
+
